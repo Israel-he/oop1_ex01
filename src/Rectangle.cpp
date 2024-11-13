@@ -1,8 +1,8 @@
-#pragma once
+﻿#pragma once
 #include "Rectangle.h"
 #include "Vertex.h"
 
- 
+ //יונתן
 //const auto MAX_COL = 70;
 //const auto MAX_ROW = 50;
 
